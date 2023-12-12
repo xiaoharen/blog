@@ -1,2 +1,2 @@
 <!-- docs/_sidebar.md -->
-* [Introduction](/essays/)
+* [Introduction](/essays/ "Essay")
