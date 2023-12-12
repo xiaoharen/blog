@@ -1,2 +1,2 @@
 <!-- docs/_sidebar.md -->
-* [Introduction](/)
+* [Introduction](/ "小哈人的博客")
