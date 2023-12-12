@@ -1,2 +1,2 @@
 <!-- docs/_sidebar.md -->
-* [Introduction](/books/ "Reading Feedback")
+* [Introduction](/reading/ "Reading Feedback")
