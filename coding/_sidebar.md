@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Introduction](/coding/)
+* [Introduction](/coding/ "Coding")
 * [C++](/coding/C++.md)
 * [Elasticsearch](/coding/Elasticsearch.md)
 * [MySQL](/coding/MySQL.md)
