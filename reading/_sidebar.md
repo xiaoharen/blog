@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 * [Introduction](/reading/ "Reading Feedback")
-* [Introduction](/reading/Java核心技术卷I "Java核心技术卷I")
-* [Introduction](/reading/大话数据结构 "大话数据结构")
-* [Introduction](/reading/橘子和飞鸟 "橘子和飞鸟")
-* [Introduction](/reading/网络是怎么连接的 "网络是怎么连接的")
+* [Java核心技术卷I](/reading/Java核心技术卷I "Java核心技术卷I")
+* [大话数据结构](/reading/大话数据结构 "大话数据结构")
+* [橘子不是唯一的水果&你当像鸟飞往你的山](/reading/橘子和飞鸟 "橘子和飞鸟")
+* [网络是怎么连接的](/reading/网络是怎么连接的 "网络是怎么连接的")
