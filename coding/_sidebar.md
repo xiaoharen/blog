@@ -7,5 +7,7 @@
 * [PAT刷题随笔](/coding/PAT刷题随笔.md)
 * [嘉樂算法随笔](/coding/嘉樂算法随笔.md)
 * [Jupyter_connect_server](/coding/Jupyter_connect_server.md)
+* [Nginx](/coding/Nginx.md)
+  
 
 
